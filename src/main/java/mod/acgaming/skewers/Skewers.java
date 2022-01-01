@@ -2,6 +2,7 @@ package mod.acgaming.skewers;
 
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
+import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
@@ -21,6 +22,10 @@ public class Skewers
     public Skewers()
     {
         final var eventBus = FMLJavaModLoadingContext.get().getModEventBus();
-        SkewersRegistry.ITEMS.register(eventBus);
+        SkewersRegistry.ITEMS_VANILLA.register(eventBus);
+        if (ModList.get().isLoaded("aquaculture"))
+        {
+            SkewersRegistry.ITEMS_AQUACULTURE.register(eventBus);
+        }
     }
 }

@@ -1,5 +1,6 @@
 {
   "item.skewers.caramel": "Caramel",
+  "item.skewers.skewer_algae": "Algae Skewer",
   "item.skewers.skewer_beef_cooked": "Steak Skewer",
   "item.skewers.skewer_beef_raw": "Raw Beef Skewer",
   "item.skewers.skewer_caramel_apple": "Caramel Apple",
@@ -8,6 +9,10 @@
   "item.skewers.skewer_cod_cooked": "Cooked Cod Skewer",
   "item.skewers.skewer_cod_raw": "Raw Cod Skewer",
   "item.skewers.skewer_cookie": "Cookie Skewer",
+  "item.skewers.skewer_fish_fillet_cooked": "Cooked Fish Fillet Skewer",
+  "item.skewers.skewer_fish_fillet_raw": "Raw Fish Fillet Skewer",
+  "item.skewers.skewer_frog_legs_cooked": "Cooked Frog Legs Skewer",
+  "item.skewers.skewer_frog_legs_raw": "Raw Frog Legs Skewer",
   "item.skewers.skewer_mutton_cooked": "Cooked Mutton Skewer",
   "item.skewers.skewer_mutton_raw": "Raw Mutton Skewer",
   "item.skewers.skewer_porkchop_cooked": "Cooked Porkchop Skewer",

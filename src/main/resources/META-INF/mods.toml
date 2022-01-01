@@ -56,3 +56,9 @@ mandatory = true
 versionRange = "[1.18,1.19)"
 ordering = "NONE"
 side = "BOTH"
+[[dependencies.skewers]]
+modId = "aquaculture"
+mandatory = false
+versionRange = "[1.18.1-2.3.0,)"
+ordering = "AFTER"
+side = "BOTH"

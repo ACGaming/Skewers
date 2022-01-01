@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer1": "skewers:items/skewer_frog_legs_cooked",
+    "layer0": "skewers:items/skewer_none"
+  }
+}

@@ -1,5 +1,6 @@
 {
   "item.skewers.caramel": "Karamell",
+  "item.skewers.skewer_algae": "Algenspieß",
   "item.skewers.skewer_beef_cooked": "Steakspieß",
   "item.skewers.skewer_beef_raw": "Spieß mit rohem Rindfleisch",
   "item.skewers.skewer_caramel_apple": "Karamellapfel",
@@ -8,6 +9,10 @@
   "item.skewers.skewer_cod_cooked": "Spieß mit gebratenem Kabeljau",
   "item.skewers.skewer_cod_raw": "Spieß mit rohem Kabeljau",
   "item.skewers.skewer_cookie": "Keksspieß",
+  "item.skewers.skewer_fish_fillet_cooked": "Spieß mit gebratenem Fischfilet",
+  "item.skewers.skewer_fish_fillet_raw": "Spieß mit rohem Fischfilet",
+  "item.skewers.skewer_frog_legs_cooked": "Spieß mit gebratenen Froschschenkeln",
+  "item.skewers.skewer_frog_legs_raw": "Spieß mit rohen Froschschenkeln",
   "item.skewers.skewer_mutton_cooked": "Spieß mit gebratenem Hammelfleisch",
   "item.skewers.skewer_mutton_raw": "Spieß mit rohem Hammelfleisch",
   "item.skewers.skewer_porkchop_cooked": "Spieß mit gebratenem Schweinefleisch",
