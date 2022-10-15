@@ -42,6 +42,4 @@ public class SkewersRegistry
     public static final RegistryObject<Item> SKEWER_ALGAE = ITEMS_AQUACULTURE.register("skewer_algae", () -> new Item(new Item.Properties().tab(Skewers.TAB).food(new FoodProperties.Builder().nutrition(2).saturationMod(0.0F).fast().build())));
     public static final RegistryObject<Item> SKEWER_FISH_FILLET_RAW = ITEMS_AQUACULTURE.register("skewer_fish_fillet_raw", () -> new Item(new Item.Properties().tab(Skewers.TAB).food(new FoodProperties.Builder().nutrition(2).saturationMod(0.2F).build())));
     public static final RegistryObject<Item> SKEWER_FISH_FILLET_COOKED = ITEMS_AQUACULTURE.register("skewer_fish_fillet_cooked", () -> new Item(new Item.Properties().tab(Skewers.TAB).food(new FoodProperties.Builder().nutrition(6).saturationMod(0.6F).build())));
-    public static final RegistryObject<Item> SKEWER_FROG_LEGS_RAW = ITEMS_AQUACULTURE.register("skewer_frog_legs_raw", () -> new Item(new Item.Properties().tab(Skewers.TAB).food(new FoodProperties.Builder().nutrition(3).saturationMod(0.1F).meat().fast().build())));
-    public static final RegistryObject<Item> SKEWER_FROG_LEGS_COOKED = ITEMS_AQUACULTURE.register("skewer_frog_legs_cooked", () -> new Item(new Item.Properties().tab(Skewers.TAB).food(new FoodProperties.Builder().nutrition(6).saturationMod(0.1F).meat().fast().build())));
 }
