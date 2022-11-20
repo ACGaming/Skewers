@@ -6,6 +6,8 @@ import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
+import org.jetbrains.annotations.NotNull;
+
 @Mod("skewers")
 public class Skewers
 {
@@ -13,6 +15,7 @@ public class Skewers
     public static final CreativeModeTab TAB = new CreativeModeTab(MOD_ID)
     {
         @Override
+        @NotNull
         public ItemStack makeIcon()
         {
             return SkewersRegistry.SKEWER_BEEF_COOKED.get().getDefaultInstance();

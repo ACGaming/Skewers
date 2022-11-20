@@ -4,7 +4,7 @@ plugins {
     id 'net.minecraftforge.gradle' version '5.1.+'
 }
 
-version = '1.1.0'
+version = '1.1.1'
 group = 'mod.acgaming.skewers'
 archivesBaseName = 'Skewers-1.19.2'
 
@@ -80,7 +80,7 @@ sourceSets.main.resources {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.19.2-43.1.43'
+    minecraft 'net.minecraftforge:forge:1.19.2-43.1.52'
 }
 
 jar {
